@@ -1,16 +1,13 @@
-<img src="./images/logo.sample.png" alt="Logo of the project" align="right">
-
 # Go-Consumer-NSQ
 Simple application on how to implement consumer with NSQ.
 
 ## Installing / Getting started
-
 - docker-compose
 
 ## Developing
 
 ### Built With
--
+- TBD
 
 ### Prerequisites
 - docker-compose
@@ -27,7 +24,6 @@ docker-compose up
 ```
 
 ### Building
-
 the step for building is already included on docker-compose file
 
 ### Deploying / Publishing
